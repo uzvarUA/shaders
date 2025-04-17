@@ -11,6 +11,7 @@
 4. Завантажити [Minecraft Bedrock Edition](#minecraft-bedrock-edition)
 5. Завантажити [Newb X Ale](https://github.com/uzvarUA/shaders/releases/download/files/Newb.X.Ale.v2.Renewed.-.Android.mcpack)
 <br>
+***
 ## Minecraft Bedrock Edition
 ### 1.21.72
 *Черговий хот-фікс* із виправленням помилок, які виникли ще у версії 1.21.70. Оновлення вийшло разом з бета-версією, де розробники попрацювали над проблемами ігрового процесу в Майнкрафт.
@@ -22,3 +23,4 @@
 * Перейменована Книга з пером не стає порожньою
 * Виправили пошук розташування гравців при тривалому простої сервера. <br>
 [Завантажити](https://github.com/uzvarUA/shaders/releases/download/files/minecraft-1-21-72-01-arm64-v8a-xbox-servers.apk)
+**
