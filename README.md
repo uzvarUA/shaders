@@ -9,8 +9,7 @@
 2. Завантажити і встановити [MT manager](https://github.com/uzvarUA/shaders/releases/download/files/MT2.18.2.apk)
 3. Завантажити і розпокувати [renderer](https://github.com/uzvarUA/shaders/releases/download/files/renderer.zip)
 4. Завантажити [Minecraft Bedrock Edition](#minecraft-bedrock-edition)
-5. Завантажити [Newb X Ale](https://github.com/uzvarUA/shaders/releases/download/files/Newb.X.Ale.v2.Renewed.-.Android.mcpack)
-<br>
+5. Завантажити [Newb X Ale](https://github.com/uzvarUA/shaders/releases/download/files/Newb.X.Ale.v2.Renewed.-.Android.mcpack) <br>
 ***
 ## Minecraft Bedrock Edition
 ### 1.21.72
