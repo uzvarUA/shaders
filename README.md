@@ -21,4 +21,5 @@
 * Перейменована Книга з пером не стає порожньою
 * Виправили пошук розташування гравців при тривалому простої сервера. <br>
 [Завантажити](https://github.com/uzvarUA/shaders/releases/download/files/minecraft-1-21-72-01-arm64-v8a-xbox-servers.apk)
-**
+***
+**ЦЕ НЕ ОФІЦІЙНИЙ ПРОДУКТ MINECRAFT. ВІН НЕ СХВАЛЕНО ТА НЕ ПОВ'ЯЗАНИЙ З MOJANG АБО MICROSOFT.**
