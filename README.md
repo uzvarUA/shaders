@@ -10,7 +10,6 @@
 3. Завантажити і розпокувати [renderer](https://github.com/uzvarUA/shaders/releases/download/files/renderer.zip)
 4. Завантажити [Minecraft Bedrock Edition](#minecraft-bedrock-edition)
 5. Завантажити [Newb X Ale](https://github.com/uzvarUA/shaders/releases/download/files/Newb.X.Ale.v2.Renewed.-.Android.mcpack) <br>
-***
 ## Minecraft Bedrock Edition
 ### 1.21.72
 *Черговий хот-фікс* із виправленням помилок, які виникли ще у версії 1.21.70. Оновлення вийшло разом з бета-версією, де розробники попрацювали над проблемами ігрового процесу в Майнкрафт.
